@@ -67,6 +67,7 @@
     LOGIN_URL=
     PAGE_URL=
     ```
+3. 프로젝트 루트 디렉토리에 outputs 디렉토리를 생성하세요.
 
 ## 실행
 
