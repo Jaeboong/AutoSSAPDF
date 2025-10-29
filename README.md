@@ -1,4 +1,5 @@
-# AutoCapture
+# AutoSSAPDF
+
 
 이 프로젝트는 자동 캡처를 수행하는 Python 스크립트입니다.
 
