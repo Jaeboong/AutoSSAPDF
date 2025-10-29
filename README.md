@@ -61,13 +61,13 @@
     # 필요한 환경 변수를 여기에 추가하세요.
     # 예: 로그인 정보, 로그인 페이지 URL, 캡쳐할 페이지 URL, 캡쳐한 이미지를 임시 저장할 폴더
 
-    IMAGE_FILE_DIR=
-    USER_ID=
-    USER_PW=
-    LOGIN_URL=
-    PAGE_URL=
+    IMAGE_FILE_DIR= 임시 캡쳐 이미지가 저장될 디렉터리
+    USER_ID=개인 ID
+    USER_PW=개인 PW
+    LOGIN_URL=SSAFY 로그인 URL
+    PAGE_URL=PDF로 만들고 싶은 교재 URL
     ```
-3. 프로젝트 루트 디렉토리에 outputs 디렉토리를 생성하세요.
+3. 프로젝트 루트 디렉토리에 outputs 디렉토리를 생성하세요. (필수)
 
 ## 실행
 
