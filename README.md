@@ -65,7 +65,7 @@
     IMAGE_FILE_DIR= 임시 캡쳐 이미지가 저장될 디렉터리
     USER_ID=개인 ID
     USER_PW=개인 PW
-    LOGIN_URL=SSAFY 로그인 URL
+    LOGIN_URL=로그인 페이지 URL
     PAGE_URL=PDF로 만들고 싶은 교재 URL
     ```
 3. 프로젝트 루트 디렉토리에 outputs 디렉토리를 생성하세요. (필수)
