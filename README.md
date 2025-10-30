@@ -25,7 +25,7 @@
 
 1.  **저장소 복제**
     ```sh
-    git clone https://github.com/smj1513/AutoCaputre.git
+    git clone https://github.com/smj1513/AutoSSAPDF.git
     cd AutoCaputre
     ```
 
