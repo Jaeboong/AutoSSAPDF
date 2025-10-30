@@ -26,7 +26,7 @@
 1.  **저장소 복제**
     ```sh
     git clone https://github.com/smj1513/AutoSSAPDF.git
-    cd AutoCaputre
+    cd AutoSSAPDF
     ```
 
 2.  **가상 환경 생성 및 활성화**
