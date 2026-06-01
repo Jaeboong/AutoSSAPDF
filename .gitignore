@@ -2,4 +2,7 @@
 .venv
 /outputs
 /images
+/image
 .idea
+__pycache__/
+books*.json
